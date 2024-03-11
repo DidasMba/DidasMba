@@ -5,7 +5,11 @@ I'm Didas from Congo / Kinshasa, living in Nairobi / Kenya 🌴, FullStack devel
 Actually:
 
 🔭 I’m currently working on a new Farm Project ...
+
 🌱 I’m currently learning amazing things ...
+
 👯 I help people to be programmers ...
+
 ⚡ Fun fact : I'am DJ, Diver, Skateboarder and Surfer
+
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/didasmbarushimana) or email
