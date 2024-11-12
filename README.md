@@ -1,6 +1,6 @@
 ### Didas Mba 👋
 
-I'm Didas from Congo / Kinshasa, living in Nairobi / Kenya 🌴, FullStack developper and Mentor/Teacher, I do content on Development and Freelancing. I really enjoy learning languages and frameworks like JS and React.
+I'm Didas from Congo / Kinshasa, living in Nairobi / Kenya 🌴, FullStack developper and Mentor/Teacher, I do content on Development and Freelancing. I really enjoy learning languages and frameworks like JS and React, NodeJS.
 
 Actually:
 
